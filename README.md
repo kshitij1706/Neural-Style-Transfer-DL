@@ -40,7 +40,7 @@ pip install -r requirements.txt
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/srivastava491/Neural-Style-Transfer.git
+   git clone https://github.com/kshitij1706/Neural-Style-Transfer-DL
    cd Neural-Style-Transfer
    ```
 
